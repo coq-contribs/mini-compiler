@@ -444,3 +444,6 @@ Fri 19/11/2004 02:00: Success (user = 1.59s system = 0.09s size =   26811 ./comp
 Sat 20/11/2004 02:00: Success (user = 1.60s system = 0.05s size =   26811 ./compiler.vo)
 Mon 22/11/2004 02:00: Success (user = 1.59s system = 0.07s size =   26827 ./compiler.vo)
 Mon 29/11/2004 02:00: Success (user = 1.61s system = 0.05s size =   26827 ./compiler.vo)
+Tue 30/11/2004 02:00: Success (user = 1.60s system = 0.06s size =   26827 ./compiler.vo)
+Wed 01/12/2004 02:00: Success (user = 1.59s system = 0.07s size =   26827 ./compiler.vo)
+Thu 02/12/2004 02:00: Success (user = 1.61s system = 0.05s size =   26827 ./compiler.vo)
