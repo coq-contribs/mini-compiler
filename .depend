@@ -1,3 +1,0 @@
-compiler.vo: compiler.v
-compiler.vi: compiler.v
-compiler.html: compiler.v

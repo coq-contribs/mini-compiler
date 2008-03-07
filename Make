@@ -1,1 +1,2 @@
+-R . MiniCompiler
 compiler.v 
