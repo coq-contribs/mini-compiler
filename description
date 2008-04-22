@@ -8,3 +8,4 @@ Description: Tutorial correctness proof of a tiny compiler from
   simple assembly-like code (one accumulator, infinitly many registers and 
   addition)
 Keywords: compiler, correctness, arithmetic, tutorial
+Category: Computer Science/Semantics and Compilation/Compilation
