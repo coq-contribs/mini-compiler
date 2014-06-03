@@ -20,6 +20,8 @@
 Require Import Arith.
 Require Import Omega.
 
+Unset Standard Proposition Elimination Names.
+
 (* source language *)
 
 Parameter string : Set.
